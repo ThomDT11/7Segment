@@ -1,1 +1,11 @@
 c:\users\user\documents\visual studio 2015\Projects\7Segment-Countdown\7Segment-Countdown\bin\Debug\7Segment-Countdown.exe.config
+c:\users\user\documents\visual studio 2015\Projects\7Segment-Countdown\7Segment-Countdown\obj\Debug\7Segment-Countdown.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\7Segment-Countdown\7Segment-Countdown\obj\Debug\_7Segment_Countdown.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\7Segment-Countdown\7Segment-Countdown\obj\Debug\_7Segment_Countdown.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\7Segment-Countdown\7Segment-Countdown\obj\Debug\7Segment-Countdown.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\7Segment-Countdown\7Segment-Countdown\bin\Debug\7Segment-Countdown.exe
+c:\users\user\documents\visual studio 2015\Projects\7Segment-Countdown\7Segment-Countdown\bin\Debug\7Segment-Countdown.pdb
+c:\users\user\documents\visual studio 2015\Projects\7Segment-Countdown\7Segment-Countdown\bin\Debug\7Segment-Countdown.xml
+c:\users\user\documents\visual studio 2015\Projects\7Segment-Countdown\7Segment-Countdown\obj\Debug\7Segment-Countdown.exe
+c:\users\user\documents\visual studio 2015\Projects\7Segment-Countdown\7Segment-Countdown\obj\Debug\7Segment-Countdown.xml
+c:\users\user\documents\visual studio 2015\Projects\7Segment-Countdown\7Segment-Countdown\obj\Debug\7Segment-Countdown.pdb
