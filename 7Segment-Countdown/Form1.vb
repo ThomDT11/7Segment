@@ -19,15 +19,7 @@
 
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
         Label2.Text += 1
-        If Label2.Text = 0 Then
-            I.BackColor = Color.RoyalBlue
-            II.BackColor = Color.RoyalBlue
-            III.BackColor = Color.RoyalBlue
-            IV.BackColor = Color.White
-            V.BackColor = Color.RoyalBlue
-            VI.BackColor = Color.RoyalBlue
-            VII.BackColor = Color.RoyalBlue
-        ElseIf Label2.Text = 1 Then
+        If Label2.Text = 1 Then
             I.BackColor = Color.RoyalBlue
             II.BackColor = Color.RoyalBlue
             III.BackColor = Color.White
